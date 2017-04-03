@@ -1,0 +1,35 @@
+head{
+    text-align: center;
+}
+
+h1{
+    font-size: 50px;
+    color: white;
+    text-shadow: 0.1em 0.1em black;
+}
+
+body{
+    text-align: center;
+}
+
+
+header{
+    text-align: center;
+}
+
+body{
+    background-image: url(Securityimages/whitesecurity.jpg);
+    background-size: cover;
+    font-size: 25px;
+        
+}
+
+img{
+    border-radius: 40px;
+}
+
+iframe{
+    height: 320px;
+    width: 500px;
+    border-radius: 50px;
+}

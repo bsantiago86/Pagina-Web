@@ -1,0 +1,94 @@
+
+.heading{
+    height: 1000px;
+    background-image: url(Securityimages/osclobby.jpg);
+    border-style:inset;
+    border: 5px solid gray;
+    border-radius: 50px;
+    background-position: center;
+    text-align: center;
+}
+
+ ul{
+     margin: -8px;
+     padding: 15px;
+     background:lightblue;
+     border-radius: 20px;
+     margin-top: 10px;
+     margin-bottom: 10px;
+     text-align: center;
+     font-size: 40px;
+     
+}
+
+li{
+            display: inline;
+            padding: 0px 10px 0px 10px;
+            
+        }
+
+a{
+        text-decoration: none;
+        color:white;
+        text-shadow: 0.1em 0.1em black;
+    }
+
+.title{
+    font-size: 50px;
+    color: black;
+    text-shadow: 0.1em 0.1em lightblue;
+}
+
+.content{
+    background-image:url(Securityimages/whitesecurity.jpg);
+    background-size: cover;
+    width:1250px;
+    float:left;
+    min-height: 700px;
+    text-align:left;
+    color: black;
+    font-size: 35px;
+    text-shadow: 0.1em 0.1em lightblue;
+   
+}
+
+h1{
+    font-size: 50pt;
+    font-family: inherit;
+    color: white;
+    text-shadow: 0.1em 0.1em gray;
+    
+}
+
+h2{
+    font-size: 30pt;
+    font-family: inherit;
+    color: white;
+    border-color: goldenrod;
+}
+
+body{
+    background-color: black;
+    background-size: cover;
+}
+
+.sidebar{
+    text-align: left;
+    font-size: 20pt;
+    font-family: inherit;
+    color:white;
+    text-shadow: 0.1em 0.1em black;
+    width: 300px;
+    float:right;
+    background-image: url(Securityimages/oscexterior.jpg);
+    border: 6px solid gray;
+    border-radius: 20px;
+}
+
+.block{
+    height: 50px;
+    background-color: gray;
+    font-size: 20pt;
+    color:white;
+    text-shadow: 0.1em 0.1em black;
+}
